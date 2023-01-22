@@ -1,2 +1,2 @@
-# bankist
+#Bankist
 JavaScript project
